@@ -1,0 +1,89 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+}
+
+body {
+  background-color: #F6F3EB;
+  font-family: Arial, sans-serif;
+}
+
+.container{
+    background-color: #6f8468;
+}
+.mt5{
+    background-color: #869B7E;
+}
+
+.card {
+  background-color: #C9CAAC;
+  border: none;
+  border-radius: 12px;
+}
+
+
+.card h4 {
+  color: #3f4d3a;
+  font-weight: bold;
+}
+
+
+.form-control {
+  border-radius: 8px;
+  border: 1px solid #869B7E;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #869B7E;
+}
+
+
+.btn-primary {
+  background-color: #869B7E;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #6f8468;
+}
+
+
+.list-group-item {
+  background-color: #F6F3EB;
+  border: 1px solid #C9CAAC;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+
+.list-group-item span {
+  color: #3f4d3a;
+  font-weight: 500;
+}
+
+
+.btn-warning {
+  background-color: #C9CAAC;
+  border: none;
+  color: #3f4d3a;
+}
+
+.btn-warning:hover {
+  background-color: #b6b792;
+}
+
+.btn-danger {
+  background-color: #869B7E;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #6f8468;
+}
+
+
+#mensajeVacio {
+  color: #6f8468;
+  font-style: italic;
+}
